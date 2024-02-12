@@ -16,7 +16,7 @@ Installation
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/ai-chat-trainer.git
+git clone https://github.com/tnkrueckergreen/ai-chat-trainer.git
 cd ai-chat-trainer
 ```
 2. Create a virtual environment and activate it:
