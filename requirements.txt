@@ -1,0 +1,6 @@
+# Requirements for AI Chat Trainer
+
+torch==1.8.1
+transformers==4.4.2
+optuna==2.10.0
+tqdm==4.62.3
